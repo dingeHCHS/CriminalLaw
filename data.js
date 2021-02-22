@@ -34,13 +34,13 @@ var APP_DATA = {
           "yaw": 2.714767461497516,
           "pitch": 0.012717726319282363,
           "title": "Introduction",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1K4NVWGisyfCrEXeSolC7qsPtlFFOkIj6/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.6688989514430386,
           "pitch": -0.0010226409082427779,
           "title": "Mock Trial",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1KB5MjXzqlsG0dW9ftnyPJnNYPahA1cMN/preview" width="640" height="480"></iframe>'
         }
       ]
     }
